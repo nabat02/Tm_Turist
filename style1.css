@@ -1,0 +1,14 @@
+ h1 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-transform: uppercase;
+    color: #84a2f5;
+    text-align: center;
+  }
+   p {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    text-align: center; 
+  }
